@@ -11,7 +11,7 @@ void Delay1ms(unsigned int xms)	//@12.000MHz
 			while (--j);
 		} while (--i);
 		
-		xms=xms-1;//»òÕßxms--
+		xms=xms-1;//Â»Ã²Ã•ÃŸxms--
 	}
 	
 }
